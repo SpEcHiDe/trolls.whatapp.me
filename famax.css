@@ -2,6 +2,7 @@ body {
     font-family: Manjari;
     font-size: 14px;
     text-align: center;
+    background-color: #eee;
 }
 .control_holder {
     padding: 5px;
@@ -64,4 +65,21 @@ a.flash {
     font-weight: bold;
     font-family: Manjari;
     text-decoration: none;
+}
+
+/*****************SpEcHiDe Added Styles****************************/
+#fourzerofourerror {
+  line-height: 150%;
+  box-sizing: border-box;
+  font-size:4em;
+  margin-top:2em;
+  margin-left:2em;
+  margin-right:2em;
+}
+#fourzerofourerror > img {
+  vertical-align:bottom;
+  float: right;
+}
+#fourzerofourerror > p {
+  text-align: center;
 }
